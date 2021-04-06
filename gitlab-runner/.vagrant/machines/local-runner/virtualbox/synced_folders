@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/floby/dev/covidtracker/vitemadose/gitlab-runner","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
