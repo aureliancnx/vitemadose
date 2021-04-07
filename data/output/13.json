@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725519+02:00",
+  "last_updated": "2021-04-07T03:53:50.264809+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
@@ -216,15 +216,15 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination Gardanne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination  Vitrolles - Espace Mandela",
+      "url": "https://partners.doctolib.fr/maison-de-sante/vitrolles/vaccination-covid-19-vitrolles-espace-mandela?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination  Vitrolles - Espace Mandela",
-      "url": "https://partners.doctolib.fr/maison-de-sante/vitrolles/vaccination-covid-19-vitrolles-espace-mandela?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination Gardanne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -398,13 +398,6 @@
     },
     {
       "departement": "13",
-      "nom": "Alain Elkaim",
-      "url": "https://app.ordoclic.fr/app/pharmacie/alain-elkaim-marseille",
-      "plateforme": "Ordoclic",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
       "nom": "Pharmacie Des 5 Avenues",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-5-avenues-marseille",
       "plateforme": "Ordoclic",
@@ -412,8 +405,8 @@
     },
     {
       "departement": "13",
-      "nom": "Pharmacie Du Centre Carry",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-centre-carry-carry-le-rouet",
+      "nom": "Alain Elkaim",
+      "url": "https://app.ordoclic.fr/app/pharmacie/alain-elkaim-marseille",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },
@@ -421,6 +414,13 @@
       "departement": "13",
       "nom": "Pharmacie Des Iris",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-iris-lancon-provence",
+      "plateforme": "Ordoclic",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Du Centre Carry",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-centre-carry-carry-le-rouet",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725677+02:00",
+  "last_updated": "2021-04-07T03:53:50.264993+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -139,13 +139,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 CHU Toulouse Rangueil",
-      "url": "",
-      "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Carbonne",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/carbonne-31390/carbonne/centre-de-vaccination-de-carbonne",
       "plateforme": "Keldoc",
@@ -160,15 +153,15 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint Gaudens",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
-      "plateforme": "Keldoc",
+      "nom": "CDV31 CHU Toulouse Rangueil",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "31",
-      "nom": "CDV31 Bagn\u00e8res de Luchon",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/bagneres-de-luchon-31110/crf-hopitaux-luchon/centre-de-vaccination-du-crf-hopitaux-luchon",
+      "nom": "CDV31 Saint Gaudens",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
@@ -184,6 +177,20 @@
       "nom": "CDV31 Toulouse Pierre Baudis",
       "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/toulouse-31000/centre-de-vaccination-departemental-toulouse-pierre-baudis",
       "plateforme": null,
+      "prochain_rdv": null
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Bagn\u00e8res de Luchon",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/bagneres-de-luchon-31110/crf-hopitaux-luchon/centre-de-vaccination-du-crf-hopitaux-luchon",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Labarthe sur L\u00e8ze",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/labarthe-sur-leze-31860/labarthe-sur-leze/centre-de-vaccination-de-labarthe-sur-leze",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -204,13 +211,6 @@
       "departement": "31",
       "nom": "CDV31 Salies du Salat",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/salies-du-salat-31260/salies-du-salat/centre-de-vaccination-de-salies-du-salat",
-      "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "31",
-      "nom": "CDV31 Labarthe sur L\u00e8ze",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/labarthe-sur-leze-31860/labarthe-sur-leze/centre-de-vaccination-de-labarthe-sur-leze",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.726167+02:00",
+  "last_updated": "2021-04-07T03:53:50.266675+02:00",
   "centres_disponibles": [
     {
       "departement": "91",
@@ -195,15 +195,15 @@
     },
     {
       "departement": "91",
-      "nom": "Salle Claude Nougaro",
-      "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Espace Ren\u00e9 L'HELGUEN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons?pid=practice-164918?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "91",
-      "nom": "Espace Ren\u00e9 L'HELGUEN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons?pid=practice-164918?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Salle Claude Nougaro",
+      "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

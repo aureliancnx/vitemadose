@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725700+02:00",
+  "last_updated": "2021-04-07T03:53:50.265019+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -54,15 +54,15 @@
     },
     {
       "departement": "34",
-      "nom": "Centre de vaccination - Clinique St Louis de Ganges",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "34",
-      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination St Martin de Londres",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -75,8 +75,8 @@
     },
     {
       "departement": "34",
-      "nom": "Centre de vaccination St Martin de Londres",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Clinique St Louis de Ganges",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

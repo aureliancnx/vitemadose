@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725466+02:00",
+  "last_updated": "2021-04-07T03:53:50.264757+02:00",
   "centres_disponibles": [
     {
       "departement": "07",
@@ -41,6 +41,13 @@
     },
     {
       "departement": "07",
+      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "07",
       "nom": "Centre de vaccination du centre de sant\u00e9 des C\u00e9vennes",
       "url": "https://partners.doctolib.fr/cabinet-pluridisciplinaire/annonay/maison-de-sante-des-cevennes?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -51,13 +58,6 @@
       "nom": "EQUIPE MOBILE DE VACCINATION DE L'ARDECHE",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "07",
-      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
-      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
@@ -76,16 +76,16 @@
     },
     {
       "departement": "07",
-      "nom": "CENTRE HOSPITALIER VALS D'ARDECHE - B\u00e2timent Esperanto 1er \u00e9tage",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de Vaccination Territorial et hospitalier BSAV - Gymnase Pierre Pieri",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-andeol/centre-de-vaccination-territorial-bourg-saint-andeol?pid=practice-166627&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "07",
-      "nom": "Centre de Vaccination Territorial et hospitalier BSAV - Gymnase Pierre Pieri",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-andeol/centre-de-vaccination-territorial-bourg-saint-andeol?pid=practice-166627&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "CENTRE HOSPITALIER VALS D'ARDECHE - B\u00e2timent Esperanto 1er \u00e9tage",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {

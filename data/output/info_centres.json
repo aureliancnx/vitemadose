@@ -1,21 +1,21 @@
 {
   "01": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725374+02:00",
+    "last_updated": "2021-04-07T03:53:50.264649+02:00",
     "centres_disponibles": [
-      {
-        "departement": "01",
-        "nom": "Centre de vaccination de Bourg-en-Bresse - Gymnase St Roch",
-        "url": "https://www.maiia.com/centre-de-vaccination/01000-bourg-en-bresse/centre-de-vaccination---gymnase-saint-roch--bourg-en-bresse",
-        "plateforme": "Maiia",
-        "prochain_rdv": "2021-04-13T11:25:00.000000Z"
-      },
       {
         "departement": "01",
         "nom": "Centre de vaccination de Valserh\u00f4ne - Centre Jean Marinet",
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/valserhone-1200/jean-marinet/centre-de-vaccination-de-jean-marinet",
         "plateforme": "Keldoc",
         "prochain_rdv": "2021-04-21T14:10:00.000000+0200"
+      },
+      {
+        "departement": "01",
+        "nom": "Centre de vaccination de Bourg-en-Bresse - Gymnase St Roch",
+        "url": "https://www.maiia.com/centre-de-vaccination/01000-bourg-en-bresse/centre-de-vaccination---gymnase-saint-roch--bourg-en-bresse",
+        "plateforme": "Maiia",
+        "prochain_rdv": "2021-04-13T11:25:00.000000Z"
       },
       {
         "departement": "01",
@@ -100,7 +100,7 @@
   },
   "02": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725421+02:00",
+    "last_updated": "2021-04-07T03:53:50.264707+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -296,7 +296,7 @@
   },
   "03": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725433+02:00",
+    "last_updated": "2021-04-07T03:53:50.264720+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -359,7 +359,7 @@
   },
   "04": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725442+02:00",
+    "last_updated": "2021-04-07T03:53:50.264730+02:00",
     "centres_disponibles": [
       {
         "departement": "04",
@@ -458,7 +458,7 @@
   },
   "05": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725450+02:00",
+    "last_updated": "2021-04-07T03:53:50.264739+02:00",
     "centres_disponibles": [
       {
         "departement": "05",
@@ -529,7 +529,7 @@
   },
   "06": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725458+02:00",
+    "last_updated": "2021-04-07T03:53:50.264748+02:00",
     "centres_disponibles": [
       {
         "departement": "06",
@@ -852,7 +852,7 @@
   },
   "07": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725466+02:00",
+    "last_updated": "2021-04-07T03:53:50.264757+02:00",
     "centres_disponibles": [
       {
         "departement": "07",
@@ -893,6 +893,13 @@
       },
       {
         "departement": "07",
+        "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
+        "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
+        "plateforme": "Maiia",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "07",
         "nom": "Centre de vaccination du centre de sant\u00e9 des C\u00e9vennes",
         "url": "https://partners.doctolib.fr/cabinet-pluridisciplinaire/annonay/maison-de-sante-des-cevennes?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
@@ -903,13 +910,6 @@
         "nom": "EQUIPE MOBILE DE VACCINATION DE L'ARDECHE",
         "url": "",
         "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "07",
-        "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
-        "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
-        "plateforme": "Maiia",
         "prochain_rdv": null
       },
       {
@@ -928,16 +928,16 @@
       },
       {
         "departement": "07",
-        "nom": "CENTRE HOSPITALIER VALS D'ARDECHE - B\u00e2timent Esperanto 1er \u00e9tage",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "Centre de Vaccination Territorial et hospitalier BSAV - Gymnase Pierre Pieri",
+        "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-andeol/centre-de-vaccination-territorial-bourg-saint-andeol?pid=practice-166627&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "07",
-        "nom": "Centre de Vaccination Territorial et hospitalier BSAV - Gymnase Pierre Pieri",
-        "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-andeol/centre-de-vaccination-territorial-bourg-saint-andeol?pid=practice-166627&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "CENTRE HOSPITALIER VALS D'ARDECHE - B\u00e2timent Esperanto 1er \u00e9tage",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -958,7 +958,7 @@
   },
   "08": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725474+02:00",
+    "last_updated": "2021-04-07T03:53:50.264766+02:00",
     "centres_disponibles": [
       {
         "departement": "08",
@@ -971,15 +971,15 @@
     "centres_indisponibles": [
       {
         "departement": "08",
-        "nom": "MSP CARIGNAN",
-        "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-173870&enable_cookies_consent=1",
+        "nom": "Centre de vaccination COSEC Roger Marche VILLERS-SEMEUSE",
+        "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-165006&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "08",
-        "nom": "Centre de vaccination COSEC Roger Marche VILLERS-SEMEUSE",
-        "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-165006&enable_cookies_consent=1",
+        "nom": "MSP CARIGNAN",
+        "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-173870&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -1141,7 +1141,7 @@
   },
   "09": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725482+02:00",
+    "last_updated": "2021-04-07T03:53:50.264774+02:00",
     "centres_disponibles": [
       {
         "departement": "09",
@@ -1254,7 +1254,7 @@
   },
   "10": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725495+02:00",
+    "last_updated": "2021-04-07T03:53:50.264783+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -1331,7 +1331,7 @@
   },
   "11": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725503+02:00",
+    "last_updated": "2021-04-07T03:53:50.264792+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -1443,7 +1443,7 @@
   },
   "12": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725511+02:00",
+    "last_updated": "2021-04-07T03:53:50.264801+02:00",
     "centres_disponibles": [
       {
         "departement": "12",
@@ -1507,7 +1507,7 @@
   },
   "13": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725519+02:00",
+    "last_updated": "2021-04-07T03:53:50.264809+02:00",
     "centres_disponibles": [
       {
         "departement": "13",
@@ -1723,15 +1723,15 @@
       },
       {
         "departement": "13",
-        "nom": "Centre de vaccination Gardanne",
-        "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination  Vitrolles - Espace Mandela",
+        "url": "https://partners.doctolib.fr/maison-de-sante/vitrolles/vaccination-covid-19-vitrolles-espace-mandela?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "13",
-        "nom": "Centre de vaccination  Vitrolles - Espace Mandela",
-        "url": "https://partners.doctolib.fr/maison-de-sante/vitrolles/vaccination-covid-19-vitrolles-espace-mandela?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination Gardanne",
+        "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -1905,13 +1905,6 @@
       },
       {
         "departement": "13",
-        "nom": "Alain Elkaim",
-        "url": "https://app.ordoclic.fr/app/pharmacie/alain-elkaim-marseille",
-        "plateforme": "Ordoclic",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "13",
         "nom": "Pharmacie Des 5 Avenues",
         "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-5-avenues-marseille",
         "plateforme": "Ordoclic",
@@ -1919,8 +1912,8 @@
       },
       {
         "departement": "13",
-        "nom": "Pharmacie Du Centre Carry",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-centre-carry-carry-le-rouet",
+        "nom": "Alain Elkaim",
+        "url": "https://app.ordoclic.fr/app/pharmacie/alain-elkaim-marseille",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
@@ -1928,6 +1921,13 @@
         "departement": "13",
         "nom": "Pharmacie Des Iris",
         "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-iris-lancon-provence",
+        "plateforme": "Ordoclic",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "13",
+        "nom": "Pharmacie Du Centre Carry",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-centre-carry-carry-le-rouet",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
@@ -1942,7 +1942,7 @@
   },
   "14": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725526+02:00",
+    "last_updated": "2021-04-07T03:53:50.264824+02:00",
     "centres_disponibles": [
       {
         "departement": "14",
@@ -2074,15 +2074,15 @@
       },
       {
         "departement": "14",
-        "nom": "Pharmacie Ferran",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
+        "nom": "Pharmacie Mozart",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-mozart-lisieux",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
       {
         "departement": "14",
-        "nom": "Pharmacie Mozart",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-mozart-lisieux",
+        "nom": "Pharmacie Ferran",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
@@ -2125,7 +2125,7 @@
   },
   "15": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725534+02:00",
+    "last_updated": "2021-04-07T03:53:50.264833+02:00",
     "centres_disponibles": [
       {
         "departement": "15",
@@ -2182,7 +2182,7 @@
   },
   "16": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725541+02:00",
+    "last_updated": "2021-04-07T03:53:50.264841+02:00",
     "centres_disponibles": [
       {
         "departement": "16",
@@ -2316,7 +2316,7 @@
   },
   "17": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725549+02:00",
+    "last_updated": "2021-04-07T03:53:50.264850+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -2526,7 +2526,7 @@
   },
   "18": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725556+02:00",
+    "last_updated": "2021-04-07T03:53:50.264859+02:00",
     "centres_disponibles": [
       {
         "departement": "18",
@@ -2609,16 +2609,16 @@
       },
       {
         "departement": "18",
-        "nom": "Caserne SDIS Bourges (danjons) CV \u00e9ph\u00e9m\u00e8re",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "CV \u00e9ph\u00e9m\u00e8re - Levet",
+        "url": "https://partners.doctolib.fr/centre-de-sante/levet/centre-de-vaccination-covid-19-levet?pid=practice-173070&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "18",
-        "nom": "CV \u00e9ph\u00e9m\u00e8re - Levet",
-        "url": "https://partners.doctolib.fr/centre-de-sante/levet/centre-de-vaccination-covid-19-levet?pid=practice-173070&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "Caserne SDIS Bourges (danjons) CV \u00e9ph\u00e9m\u00e8re",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -2700,16 +2700,16 @@
       },
       {
         "departement": "18",
-        "nom": "CV \u00e9ph\u00e9m\u00e8re - Neuvy-sur-Barangeon",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "CV \u00e9ph\u00e9m\u00e8re - Dun-sur-Auron",
+        "url": "https://partners.doctolib.fr/centre-de-sante/dun-sur-auron/centre-de-vaccination-covid-19-dun-sur-auron?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "18",
-        "nom": "CV \u00e9ph\u00e9m\u00e8re - Dun-sur-Auron",
-        "url": "https://partners.doctolib.fr/centre-de-sante/dun-sur-auron/centre-de-vaccination-covid-19-dun-sur-auron?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "CV \u00e9ph\u00e9m\u00e8re - Neuvy-sur-Barangeon",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -2791,8 +2791,8 @@
       },
       {
         "departement": "18",
-        "nom": "CV \u00e9ph\u00e9m\u00e8re - Les Aix d'Angillon",
-        "url": "https://partners.doctolib.fr/centre-de-sante/les-aix-d-angillon/centre-vaccination-mairie-les-aix-d-angillon-les-aix-d-angillon?pid=practice-172324&enable_cookies_consent=1",
+        "nom": "CV \u00e9ph\u00e9m\u00e8re - Touchay-sur-Ligni\u00e8res",
+        "url": "https://partners.doctolib.fr/centre-de-sante/touchay/centre-de-vaccination-covid-19-mairie-de-touchay?pid=practice-170619&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -2805,8 +2805,8 @@
       },
       {
         "departement": "18",
-        "nom": "CV \u00e9ph\u00e9m\u00e8re - Touchay-sur-Ligni\u00e8res",
-        "url": "https://partners.doctolib.fr/centre-de-sante/touchay/centre-de-vaccination-covid-19-mairie-de-touchay?pid=practice-170619&enable_cookies_consent=1",
+        "nom": "CV \u00e9ph\u00e9m\u00e8re - Les Aix d'Angillon",
+        "url": "https://partners.doctolib.fr/centre-de-sante/les-aix-d-angillon/centre-vaccination-mairie-les-aix-d-angillon-les-aix-d-angillon?pid=practice-172324&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -2842,7 +2842,7 @@
   },
   "19": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725564+02:00",
+    "last_updated": "2021-04-07T03:53:50.264867+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -2989,7 +2989,7 @@
   },
   "21": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725572+02:00",
+    "last_updated": "2021-04-07T03:53:50.264876+02:00",
     "centres_disponibles": [
       {
         "departement": "21",
@@ -3207,7 +3207,7 @@
   },
   "22": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725579+02:00",
+    "last_updated": "2021-04-07T03:53:50.264885+02:00",
     "centres_disponibles": [
       {
         "departement": "22",
@@ -3341,20 +3341,20 @@
   },
   "23": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725592+02:00",
+    "last_updated": "2021-04-07T03:53:50.264899+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
         "departement": "23",
-        "nom": "CH EVAUX LES BAINS",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-165266&enable_cookies_consent=1",
+        "nom": "CH BOURGANEUF",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?speciality_id=5494&pid=practice-163731&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "23",
-        "nom": "CH BOURGANEUF",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?speciality_id=5494&pid=practice-163731&enable_cookies_consent=1",
+        "nom": "CH EVAUX LES BAINS",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-165266&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -3411,7 +3411,7 @@
   },
   "24": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725601+02:00",
+    "last_updated": "2021-04-07T03:53:50.264909+02:00",
     "centres_disponibles": [
       {
         "departement": "24",
@@ -3515,16 +3515,16 @@
       },
       {
         "departement": "24",
-        "nom": "CV mobile -Perigueux- SDIS/CD",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "Maison de sant\u00e9 du Pays Montponnais",
+        "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "24",
-        "nom": "Maison de sant\u00e9 du Pays Montponnais",
-        "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "CV mobile -Perigueux- SDIS/CD",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -3622,7 +3622,7 @@
   },
   "25": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725609+02:00",
+    "last_updated": "2021-04-07T03:53:50.264917+02:00",
     "centres_disponibles": [
       {
         "departement": "25",
@@ -3756,7 +3756,7 @@
   },
   "26": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725616+02:00",
+    "last_updated": "2021-04-07T03:53:50.264926+02:00",
     "centres_disponibles": [
       {
         "departement": "26",
@@ -3883,7 +3883,7 @@
   },
   "27": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725624+02:00",
+    "last_updated": "2021-04-07T03:53:50.264934+02:00",
     "centres_disponibles": [
       {
         "departement": "27",
@@ -3945,16 +3945,16 @@
       },
       {
         "departement": "27",
-        "nom": "Centre \u00e9ph\u00e9m\u00e8re annexe CH Verneuil",
-        "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-180558&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "Grand Bourgtheroulde - salle du PERREY",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
         "departement": "27",
-        "nom": "Grand Bourgtheroulde - salle du PERREY",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "Centre \u00e9ph\u00e9m\u00e8re annexe CH Verneuil",
+        "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-180558&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -4052,7 +4052,7 @@
   },
   "28": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725631+02:00",
+    "last_updated": "2021-04-07T03:53:50.264943+02:00",
     "centres_disponibles": [
       {
         "departement": "28",
@@ -4228,7 +4228,7 @@
   },
   "29": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725639+02:00",
+    "last_updated": "2021-04-07T03:53:50.264952+02:00",
     "centres_disponibles": [
       {
         "departement": "29",
@@ -4283,20 +4283,6 @@
       },
       {
         "departement": "29",
-        "nom": "CH MORLAIX (anciens locaux EFS)",
-        "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "29",
-        "nom": "MORLAIX - LANGOLVAS",
-        "url": "https://partners.doctolib.fr/maison-de-sante/morlaix/ch-morlaix-centre-de-vaccination-covid-19?pid=practice-163107&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "29",
         "nom": "LANDERNEAU - Le Mille Club",
         "url": "https://www.maiia.com/centre-de-vaccination/29800-landerneau/centre-de-vaccination---landerneau---lesneven",
         "plateforme": "Maiia",
@@ -4307,6 +4293,20 @@
         "nom": "DOUARNENEZ - Centre Gradlon",
         "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/douarnenez-29100/gradlon/centre-de-vaccination-de-gradlon",
         "plateforme": "Keldoc",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "29",
+        "nom": "CH MORLAIX (anciens locaux EFS)",
+        "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "29",
+        "nom": "MORLAIX - LANGOLVAS",
+        "url": "https://partners.doctolib.fr/maison-de-sante/morlaix/ch-morlaix-centre-de-vaccination-covid-19?pid=practice-163107&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -4411,7 +4411,7 @@
   },
   "2A": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725647+02:00",
+    "last_updated": "2021-04-07T03:53:50.264960+02:00",
     "centres_disponibles": [
       {
         "departement": "2A",
@@ -4489,7 +4489,7 @@
   },
   "2B": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725655+02:00",
+    "last_updated": "2021-04-07T03:53:50.264969+02:00",
     "centres_disponibles": [
       {
         "departement": "2B",
@@ -4574,7 +4574,7 @@
   },
   "30": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725662+02:00",
+    "last_updated": "2021-04-07T03:53:50.264977+02:00",
     "centres_disponibles": [
       {
         "departement": "30",
@@ -4727,13 +4727,6 @@
       },
       {
         "departement": "30",
-        "nom": "Pharmacie Des Aires",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-aires-sommieres",
-        "plateforme": "Ordoclic",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "30",
         "nom": "Grande Pharmacie Du Talabot",
         "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-du-talabot-nimes",
         "plateforme": "Ordoclic",
@@ -4745,12 +4738,19 @@
         "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-portes-de-la-vaunage-caveirac",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
+      },
+      {
+        "departement": "30",
+        "nom": "Pharmacie Des Aires",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-aires-sommieres",
+        "plateforme": "Ordoclic",
+        "prochain_rdv": null
       }
     ]
   },
   "31": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725677+02:00",
+    "last_updated": "2021-04-07T03:53:50.264993+02:00",
     "centres_disponibles": [
       {
         "departement": "31",
@@ -4789,17 +4789,17 @@
       },
       {
         "departement": "31",
-        "nom": "CDV31 Castanet-Tolosan",
-        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/castanet-tolosan-31320/castanet-tolosan/centre-de-vaccination-de-castanet-tolosan",
-        "plateforme": "Keldoc",
-        "prochain_rdv": "2021-04-12T17:05:00.000000+0200"
-      },
-      {
-        "departement": "31",
         "nom": "CDV31 Fronton",
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/fronton-31620/fronton/centre-de-vaccination-de-fronton",
         "plateforme": "Keldoc",
         "prochain_rdv": "2021-04-19T15:10:00.000000+0200"
+      },
+      {
+        "departement": "31",
+        "nom": "CDV31 Castanet-Tolosan",
+        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/castanet-tolosan-31320/castanet-tolosan/centre-de-vaccination-de-castanet-tolosan",
+        "plateforme": "Keldoc",
+        "prochain_rdv": "2021-04-12T17:05:00.000000+0200"
       },
       {
         "departement": "31",
@@ -4889,13 +4889,6 @@
       },
       {
         "departement": "31",
-        "nom": "CDV31 CHU Toulouse Rangueil",
-        "url": "",
-        "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "31",
         "nom": "CDV31 Carbonne",
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/carbonne-31390/carbonne/centre-de-vaccination-de-carbonne",
         "plateforme": "Keldoc",
@@ -4910,15 +4903,15 @@
       },
       {
         "departement": "31",
-        "nom": "CDV31 Saint Gaudens",
-        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
-        "plateforme": "Keldoc",
+        "nom": "CDV31 CHU Toulouse Rangueil",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
         "departement": "31",
-        "nom": "CDV31 Bagn\u00e8res de Luchon",
-        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/bagneres-de-luchon-31110/crf-hopitaux-luchon/centre-de-vaccination-du-crf-hopitaux-luchon",
+        "nom": "CDV31 Saint Gaudens",
+        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
         "plateforme": "Keldoc",
         "prochain_rdv": null
       },
@@ -4934,6 +4927,20 @@
         "nom": "CDV31 Toulouse Pierre Baudis",
         "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/toulouse-31000/centre-de-vaccination-departemental-toulouse-pierre-baudis",
         "plateforme": null,
+        "prochain_rdv": null
+      },
+      {
+        "departement": "31",
+        "nom": "CDV31 Bagn\u00e8res de Luchon",
+        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/bagneres-de-luchon-31110/crf-hopitaux-luchon/centre-de-vaccination-du-crf-hopitaux-luchon",
+        "plateforme": "Keldoc",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "31",
+        "nom": "CDV31 Labarthe sur L\u00e8ze",
+        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/labarthe-sur-leze-31860/labarthe-sur-leze/centre-de-vaccination-de-labarthe-sur-leze",
+        "plateforme": "Keldoc",
         "prochain_rdv": null
       },
       {
@@ -4954,13 +4961,6 @@
         "departement": "31",
         "nom": "CDV31 Salies du Salat",
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/salies-du-salat-31260/salies-du-salat/centre-de-vaccination-de-salies-du-salat",
-        "plateforme": "Keldoc",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "31",
-        "nom": "CDV31 Labarthe sur L\u00e8ze",
-        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/labarthe-sur-leze-31860/labarthe-sur-leze/centre-de-vaccination-de-labarthe-sur-leze",
         "plateforme": "Keldoc",
         "prochain_rdv": null
       },
@@ -5059,7 +5059,7 @@
   },
   "32": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725685+02:00",
+    "last_updated": "2021-04-07T03:53:50.265002+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -5206,7 +5206,7 @@
   },
   "33": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725692+02:00",
+    "last_updated": "2021-04-07T03:53:50.265010+02:00",
     "centres_disponibles": [
       {
         "departement": "33",
@@ -5255,7 +5255,7 @@
         "nom": "Mairie d'Arcachon",
         "url": "https://partners.doctolib.fr/centre-de-sante/arcachon/centre-municipal-de-vaccination-anti-covid-19-de-la-ville-d-arcachon?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-09T19:10:00.000+02:00"
+        "prochain_rdv": "2021-04-09T17:15:00.000+02:00"
       }
     ],
     "centres_indisponibles": [
@@ -5473,7 +5473,7 @@
   },
   "34": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725700+02:00",
+    "last_updated": "2021-04-07T03:53:50.265019+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -5527,15 +5527,15 @@
       },
       {
         "departement": "34",
-        "nom": "Centre de vaccination - Clinique St Louis de Ganges",
-        "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
+        "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "34",
-        "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
-        "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination St Martin de Londres",
+        "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -5548,8 +5548,8 @@
       },
       {
         "departement": "34",
-        "nom": "Centre de vaccination St Martin de Londres",
-        "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - Clinique St Louis de Ganges",
+        "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -5739,7 +5739,7 @@
   },
   "35": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725707+02:00",
+    "last_updated": "2021-04-07T03:53:50.265027+02:00",
     "centres_disponibles": [
       {
         "departement": "35",
@@ -5759,15 +5759,15 @@
     "centres_indisponibles": [
       {
         "departement": "35",
-        "nom": "MONTFORT SUR MEU-COSEC",
-        "url": "https://partners.doctolib.fr/centre-de-sante/montfort-sur-meu/centre-de-vaccination-covid-19-de-broceliande?pid=practice-166461&enable_cookies_consent=1",
+        "nom": "DOL DE BGNE-Club de l'amiti\u00e9",
+        "url": "https://partners.doctolib.fr/centre-de-sante/dol-de-bretagne/centre-de-vaccination-dol-de-bretagne?pid=practice-165293&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "35",
-        "nom": "DOL DE BGNE-Club de l'amiti\u00e9",
-        "url": "https://partners.doctolib.fr/centre-de-sante/dol-de-bretagne/centre-de-vaccination-dol-de-bretagne?pid=practice-165293&enable_cookies_consent=1",
+        "nom": "MONTFORT SUR MEU-COSEC",
+        "url": "https://partners.doctolib.fr/centre-de-sante/montfort-sur-meu/centre-de-vaccination-covid-19-de-broceliande?pid=practice-166461&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -5901,7 +5901,7 @@
   },
   "36": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725720+02:00",
+    "last_updated": "2021-04-07T03:53:50.265036+02:00",
     "centres_disponibles": [
       {
         "departement": "36",
@@ -5977,15 +5977,15 @@
       },
       {
         "departement": "36",
-        "nom": "Espace Tivoli - Chatillon",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chatillon-sur-indre/vaccination-covid-19-ville-de-chatillon-sur-indre-espace-tivoli?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Salle des f\u00eates La Ch\u00e2tre / CPTS Boischaut Sud",
+        "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "36",
-        "nom": "Salle des f\u00eates La Ch\u00e2tre / CPTS Boischaut Sud",
-        "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853&enable_cookies_consent=1",
+        "nom": "Espace Tivoli - Chatillon",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chatillon-sur-indre/vaccination-covid-19-ville-de-chatillon-sur-indre-espace-tivoli?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -6012,15 +6012,15 @@
       },
       {
         "departement": "36",
-        "nom": "P\u00f4le de sant\u00e9 de Valen\u00e7ay /CPTS Boischaut nord",
-        "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "B\u00e2timent communal \"La grange\" / CPTS Boischaut sud",
+        "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "36",
-        "nom": "B\u00e2timent communal \"La grange\" / CPTS Boischaut sud",
-        "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "P\u00f4le de sant\u00e9 de Valen\u00e7ay /CPTS Boischaut nord",
+        "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -6035,7 +6035,7 @@
   },
   "37": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725728+02:00",
+    "last_updated": "2021-04-07T03:53:50.265084+02:00",
     "centres_disponibles": [
       {
         "departement": "37",
@@ -6148,7 +6148,7 @@
   },
   "38": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725735+02:00",
+    "last_updated": "2021-04-07T03:53:50.265093+02:00",
     "centres_disponibles": [
       {
         "departement": "38",
@@ -6184,13 +6184,6 @@
         "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/la-tronche-38700/centre-hospitalier-universitaire-grenoble-nord/centre-de-vaccination-du-chu-grenoble-nord ",
         "plateforme": "Keldoc",
         "prochain_rdv": "2021-04-17T16:20:00.000000+0200"
-      },
-      {
-        "departement": "38",
-        "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
-        "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
-        "plateforme": "Keldoc",
-        "prochain_rdv": "2021-04-26T11:20:00.000000+0200"
       },
       {
         "departement": "38",
@@ -6280,6 +6273,13 @@
       },
       {
         "departement": "38",
+        "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
+        "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
+        "plateforme": null,
+        "prochain_rdv": null
+      },
+      {
+        "departement": "38",
         "nom": "Centre de vaccination COVID - Centre hospitalier de Vienne - (Professionnels de sant\u00e9 uniquement)",
         "url": "https://partners.doctolib.fr/hopital-public/vienne/centre-de-vaccination-covid-19-ch-vienne?pid=practice-165717&enable_cookies_consent=1",
         "plateforme": "Doctolib",
@@ -6317,7 +6317,7 @@
   },
   "39": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725743+02:00",
+    "last_updated": "2021-04-07T03:53:50.265102+02:00",
     "centres_disponibles": [
       {
         "departement": "39",
@@ -6479,7 +6479,7 @@
   },
   "40": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725750+02:00",
+    "last_updated": "2021-04-07T03:53:50.266187+02:00",
     "centres_disponibles": [
       {
         "departement": "40",
@@ -6634,7 +6634,7 @@
   },
   "41": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725758+02:00",
+    "last_updated": "2021-04-07T03:53:50.266216+02:00",
     "centres_disponibles": [
       {
         "departement": "41",
@@ -6648,14 +6648,14 @@
         "nom": "Espace Jorge Semprun - Blois",
         "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/blois/centre-de-vaccination-espace-jorge-semprun?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-14T16:05:00.000+02:00"
+        "prochain_rdv": "2021-04-15T12:55:00.000+02:00"
       },
       {
         "departement": "41",
         "nom": "Centre de vaccination Jeu de Paume - Blois",
         "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/blois/centre-de-vaccination-espace-jorge-semprun?pid=practice-179783&enable_cookies_consent=1",
         "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-14T16:05:00.000+02:00"
+        "prochain_rdv": "2021-04-15T12:55:00.000+02:00"
       },
       {
         "departement": "41",
@@ -6717,16 +6717,16 @@
       },
       {
         "departement": "41",
-        "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re de La Chapelle Vend\u00f4moise",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re de de Saint Laurent Nouan",
+        "url": "https://partners.doctolib.fr/centre-de-sante/saint-laurent-nouan/centre-vaccination-saint-laurent-nouan?pid=practice-172473&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "41",
-        "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re de de Saint Laurent Nouan",
-        "url": "https://partners.doctolib.fr/centre-de-sante/saint-laurent-nouan/centre-vaccination-saint-laurent-nouan?pid=practice-172473&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re de La Chapelle Vend\u00f4moise",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -6843,16 +6843,16 @@
       },
       {
         "departement": "41",
-        "nom": "Centre de vaccination - Dojo",
-        "url": "https://partners.doctolib.fr/centre-de-sante/saint-georges-sur-cher/centre-de-vaccination-covid-19-de-saint-georges-sur-cher?pid=practice-166204&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "Centre de vaccination - en attente (41)",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
         "departement": "41",
-        "nom": "Centre de vaccination - en attente (41)",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "Centre de vaccination - Dojo",
+        "url": "https://partners.doctolib.fr/centre-de-sante/saint-georges-sur-cher/centre-de-vaccination-covid-19-de-saint-georges-sur-cher?pid=practice-166204&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -6894,21 +6894,21 @@
   },
   "42": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725765+02:00",
+    "last_updated": "2021-04-07T03:53:50.266227+02:00",
     "centres_disponibles": [
-      {
-        "departement": "42",
-        "nom": "Centre de vaccination - Centre de soins non programm\u00e9s - Ville d'Andr\u00e9zieux-Bouth\u00e9on",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon?pid=practice-165752&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": "2021-05-06T17:50:00.000+02:00"
-      },
       {
         "departement": "42",
         "nom": "Clinique du Parc",
         "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest-en-jarez/centre-de-vaccination-covid-19-de-la-clinique-du-parc-de-st-priest-en-jarez?pid=practice-180664&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": "2021-04-18T15:00:00.000+02:00"
+      },
+      {
+        "departement": "42",
+        "nom": "Centre de vaccination - Centre de soins non programm\u00e9s - Ville d'Andr\u00e9zieux-Bouth\u00e9on",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon?pid=practice-165752&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": "2021-05-06T17:50:00.000+02:00"
       },
       {
         "departement": "42",
@@ -7049,7 +7049,7 @@
   },
   "43": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725774+02:00",
+    "last_updated": "2021-04-07T03:53:50.266238+02:00",
     "centres_disponibles": [
       {
         "departement": "43",
@@ -7106,7 +7106,7 @@
   },
   "44": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725781+02:00",
+    "last_updated": "2021-04-07T03:53:50.266247+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -7260,7 +7260,7 @@
   },
   "45": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725789+02:00",
+    "last_updated": "2021-04-07T03:53:50.266256+02:00",
     "centres_disponibles": [
       {
         "departement": "45",
@@ -7271,15 +7271,15 @@
       },
       {
         "departement": "45",
-        "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
-        "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
+        "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": "2021-04-07T08:30:00.000+02:00"
       },
       {
         "departement": "45",
-        "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
-        "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901&enable_cookies_consent=1",
+        "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
+        "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": "2021-04-07T08:30:00.000+02:00"
       },
@@ -7394,7 +7394,7 @@
   },
   "46": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725796+02:00",
+    "last_updated": "2021-04-07T03:53:50.266264+02:00",
     "centres_disponibles": [
       {
         "departement": "46",
@@ -7549,7 +7549,7 @@
   },
   "47": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725804+02:00",
+    "last_updated": "2021-04-07T03:53:50.266273+02:00",
     "centres_disponibles": [
       {
         "departement": "47",
@@ -7620,7 +7620,7 @@
   },
   "48": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725811+02:00",
+    "last_updated": "2021-04-07T03:53:50.266282+02:00",
     "centres_disponibles": [
       {
         "departement": "48",
@@ -7691,7 +7691,7 @@
   },
   "49": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725819+02:00",
+    "last_updated": "2021-04-07T03:53:50.266290+02:00",
     "centres_disponibles": [
       {
         "departement": "49",
@@ -7776,7 +7776,7 @@
   },
   "50": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725832+02:00",
+    "last_updated": "2021-04-07T03:53:50.266299+02:00",
     "centres_disponibles": [
       {
         "departement": "50",
@@ -7882,7 +7882,7 @@
   },
   "51": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725841+02:00",
+    "last_updated": "2021-04-07T03:53:50.266307+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -8050,7 +8050,7 @@
   },
   "52": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725848+02:00",
+    "last_updated": "2021-04-07T03:53:50.266324+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -8092,7 +8092,7 @@
   },
   "53": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725856+02:00",
+    "last_updated": "2021-04-07T03:53:50.266333+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -8183,7 +8183,7 @@
   },
   "54": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725869+02:00",
+    "last_updated": "2021-04-07T03:53:50.266346+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -8286,15 +8286,15 @@
       },
       {
         "departement": "54",
-        "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392&enable_cookies_consent=1",
+        "nom": "Centre de vaccination d'Audun-le-Roman - Si\u00e8ge de la communaut\u00e9 de communes Coeur de Pays Haut",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175513&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "54",
-        "nom": "Centre de vaccination d'Audun-le-Roman - Si\u00e8ge de la communaut\u00e9 de communes Coeur de Pays Haut",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175513&enable_cookies_consent=1",
+        "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -8370,15 +8370,15 @@
       },
       {
         "departement": "54",
-        "nom": "Villers - Centre du Placieux",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163348&enable_cookies_consent=1",
+        "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163349&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "54",
-        "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163349&enable_cookies_consent=1",
+        "nom": "Villers - Centre du Placieux",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163348&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -8421,22 +8421,8 @@
   },
   "55": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725877+02:00",
+    "last_updated": "2021-04-07T03:53:50.266354+02:00",
     "centres_disponibles": [
-      {
-        "departement": "55",
-        "nom": "Centre de vaccination de Verdun (Salle Cassin) (Equipe mixte CH/m\u00e9decine de ville)",
-        "url": "https://partners.doctolib.fr/hopital-public/verdun/centre-de-vaccination-covid-19-ch-verdun?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-13T11:25:00.000+02:00"
-      },
-      {
-        "departement": "55",
-        "nom": "Lieu de vaccination de DIEUE SUR MEUSE",
-        "url": "https://www.maiia.com/centre-de-vaccination/55320-dieue-sur-meuse/centre-de-vaccination---dieue-sur-meuse",
-        "plateforme": "Maiia",
-        "prochain_rdv": "2021-04-07T15:05:00.000000Z"
-      },
       {
         "departement": "55",
         "nom": "Lieu de vaccination de Varennes en Argonne (salle polyvalente)",
@@ -8446,10 +8432,24 @@
       },
       {
         "departement": "55",
+        "nom": "Centre de vaccination de Verdun (Salle Cassin) (Equipe mixte CH/m\u00e9decine de ville)",
+        "url": "https://partners.doctolib.fr/hopital-public/verdun/centre-de-vaccination-covid-19-ch-verdun?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": "2021-04-13T11:25:00.000+02:00"
+      },
+      {
+        "departement": "55",
         "nom": "Lieu de vaccination de Pierrefitte-sur-Aire",
         "url": "https://www.maiia.com/centre-de-vaccination/55260-pierrefitte-sur-aire/centre-de-vaccination---pierrefitte-sur-aire",
         "plateforme": "Maiia",
         "prochain_rdv": "2021-04-15T09:15:00.000000Z"
+      },
+      {
+        "departement": "55",
+        "nom": "Lieu de vaccination de DIEUE SUR MEUSE",
+        "url": "https://www.maiia.com/centre-de-vaccination/55320-dieue-sur-meuse/centre-de-vaccination---dieue-sur-meuse",
+        "plateforme": "Maiia",
+        "prochain_rdv": "2021-04-07T15:05:00.000000Z"
       },
       {
         "departement": "55",
@@ -8490,15 +8490,15 @@
       },
       {
         "departement": "55",
-        "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
-        "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+        "nom": "Lieu de vaccination de MONTMEDY (salle des f\u00eates)",
+        "url": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville",
         "plateforme": "Maiia",
         "prochain_rdv": null
       },
       {
         "departement": "55",
-        "nom": "Lieu de vaccination de MONTMEDY (salle des f\u00eates)",
-        "url": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville",
+        "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
+        "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
         "plateforme": "Maiia",
         "prochain_rdv": null
       },
@@ -8511,15 +8511,15 @@
       },
       {
         "departement": "55",
-        "nom": "Lieu de vaccination de DAMVILLERS - MSP",
-        "url": "https://www.maiia.com/centre-de-vaccination/55150-damvillers/centre-de-vaccination---damvillers",
+        "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
+        "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
         "plateforme": "Maiia",
         "prochain_rdv": null
       },
       {
         "departement": "55",
-        "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
-        "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
+        "nom": "Lieu de vaccination de DAMVILLERS - MSP",
+        "url": "https://www.maiia.com/centre-de-vaccination/55150-damvillers/centre-de-vaccination---damvillers",
         "plateforme": "Maiia",
         "prochain_rdv": null
       },
@@ -8583,7 +8583,7 @@
   },
   "56": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725885+02:00",
+    "last_updated": "2021-04-07T03:53:50.266363+02:00",
     "centres_disponibles": [
       {
         "departement": "56",
@@ -8710,7 +8710,7 @@
   },
   "57": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725892+02:00",
+    "last_updated": "2021-04-07T03:53:50.266371+02:00",
     "centres_disponibles": [
       {
         "departement": "57",
@@ -8914,7 +8914,7 @@
   },
   "58": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725900+02:00",
+    "last_updated": "2021-04-07T03:53:50.266379+02:00",
     "centres_disponibles": [
       {
         "departement": "58",
@@ -9027,8 +9027,15 @@
   },
   "59": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725907+02:00",
+    "last_updated": "2021-04-07T03:53:50.266388+02:00",
     "centres_disponibles": [
+      {
+        "departement": "59",
+        "nom": "Centre de vaccination - CHSA Maubeuge",
+        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/maubeuge-59600/centre-hospitalier-de-sambre-avesnois/centre-de-vaccination-du-centre-hospitalier-de-sambre-avesnois",
+        "plateforme": "Keldoc",
+        "prochain_rdv": "2021-05-04T15:30:00.000000+0200"
+      },
       {
         "departement": "59",
         "nom": "Centre de vaccination - CPTS P\u00e9v\u00e8le du Douaisis, Salle la Grange",
@@ -9236,13 +9243,6 @@
       },
       {
         "departement": "59",
-        "nom": "Centre de vaccination - CHSA Maubeuge",
-        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/maubeuge-59600/centre-hospitalier-de-sambre-avesnois/centre-de-vaccination-du-centre-hospitalier-de-sambre-avesnois",
-        "plateforme": null,
-        "prochain_rdv": null
-      },
-      {
-        "departement": "59",
         "nom": "Centre de vaccination - Commune de Cond\u00e9-sur-l'Escaut, MSP",
         "url": "https://partners.doctolib.fr/centre-de-sante/valenciennes/centre-vaccination?pid=practice-176729&enable_cookies_consent=1",
         "plateforme": "Doctolib",
@@ -9313,15 +9313,15 @@
       },
       {
         "departement": "59",
-        "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
-        "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
+        "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "59",
-        "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
-        "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
+        "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -9383,15 +9383,15 @@
       },
       {
         "departement": "59",
-        "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
-        "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - CH Armenti\u00e8res",
+        "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "59",
-        "nom": "Centre de vaccination - CH Armenti\u00e8res",
-        "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
+        "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -9502,15 +9502,15 @@
       },
       {
         "departement": "59",
-        "nom": "Pharmacie De La Madeleine",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
+        "nom": "Grande Pharmacie Jaures",
+        "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-jaures-coudekerque-branche",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
       {
         "departement": "59",
-        "nom": "Grande Pharmacie Jaures",
-        "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-jaures-coudekerque-branche",
+        "nom": "Pharmacie De La Madeleine",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
@@ -9595,7 +9595,7 @@
   },
   "60": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725915+02:00",
+    "last_updated": "2021-04-07T03:53:50.266396+02:00",
     "centres_disponibles": [
       {
         "departement": "60",
@@ -9706,15 +9706,15 @@
       },
       {
         "departement": "60",
-        "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
-        "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - Mairie de Chambly, gymnase en c\u0153ur de ville",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chambly/centre-de-vaccination-covid-19-ville-de-chambly?pid=practice-175375&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "60",
-        "nom": "Centre de vaccination - Mairie de Chambly, gymnase en c\u0153ur de ville",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chambly/centre-de-vaccination-covid-19-ville-de-chambly?pid=practice-175375&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
+        "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -9813,7 +9813,7 @@
   },
   "61": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725922+02:00",
+    "last_updated": "2021-04-07T03:53:50.266405+02:00",
     "centres_disponibles": [
       {
         "departement": "61",
@@ -9898,7 +9898,7 @@
   },
   "62": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725930+02:00",
+    "last_updated": "2021-04-07T03:53:50.266413+02:00",
     "centres_disponibles": [
       {
         "departement": "62",
@@ -9995,6 +9995,13 @@
       },
       {
         "departement": "62",
+        "nom": "CP - US  / Centre P\u00e9nitentiaire de Vendin-le-Vieil",
+        "url": "",
+        "plateforme": "Autre",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "62",
         "nom": "CD - US BAPAUME / Maison d'Arr\u00eat d'Arras",
         "url": "",
         "plateforme": "Autre",
@@ -10003,13 +10010,6 @@
       {
         "departement": "62",
         "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
-        "url": "",
-        "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "62",
-        "nom": "CP - US  / Centre P\u00e9nitentiaire de Vendin-le-Vieil",
         "url": "",
         "plateforme": "Autre",
         "prochain_rdv": null
@@ -10086,16 +10086,16 @@
       },
       {
         "departement": "62",
-        "nom": "Centre de vaccination - Ville de Vitry-en-Artois, salle polyvalente",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "Centre de vaccination - Commune AUCHEL, SALLE ROGER COUDERC",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/auchel/centre-de-vaccination-covid-19-roger-couderc?pid=practice-176918&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "62",
-        "nom": "Centre de vaccination - Commune AUCHEL, SALLE ROGER COUDERC",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/auchel/centre-de-vaccination-covid-19-roger-couderc?pid=practice-176918&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "Centre de vaccination - Ville de Vitry-en-Artois, salle polyvalente",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -10233,15 +10233,15 @@
       },
       {
         "departement": "62",
-        "nom": "Pharmacie Test",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-test-rebreuve-sur-canche",
+        "nom": "Pharmacie Henin Beaumont",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-henin-beaumont-henin-beaumont",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
       {
         "departement": "62",
-        "nom": "Pharmacie Henin Beaumont",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-henin-beaumont-henin-beaumont",
+        "nom": "Pharmacie Test",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-test-rebreuve-sur-canche",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
@@ -10270,7 +10270,7 @@
   },
   "63": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725943+02:00",
+    "last_updated": "2021-04-07T03:53:50.266426+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -10282,15 +10282,15 @@
       },
       {
         "departement": "63",
-        "nom": "Centre de vaccination  COVID RIOM Ville-H\u00f4pital Salle DUMOULIN",
-        "url": "https://partners.doctolib.fr/centre-de-sante/riom/centre-de-vaccination-covid-ch-riom?pid=practice-166271&enable_cookies_consent=1",
+        "nom": "Centre de vaccination du Centre Hospitalier du Mont Dore",
+        "url": "https://partners.doctolib.fr/hopital-public/mont-dore/ch-du-mont-dore-centre-de-vaccination?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "63",
-        "nom": "Centre de vaccination du Centre Hospitalier du Mont Dore",
-        "url": "https://partners.doctolib.fr/hopital-public/mont-dore/ch-du-mont-dore-centre-de-vaccination?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination  COVID RIOM Ville-H\u00f4pital Salle DUMOULIN",
+        "url": "https://partners.doctolib.fr/centre-de-sante/riom/centre-de-vaccination-covid-ch-riom?pid=practice-166271&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -10389,7 +10389,7 @@
   },
   "64": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725951+02:00",
+    "last_updated": "2021-04-07T03:53:50.266435+02:00",
     "centres_disponibles": [
       {
         "departement": "64",
@@ -10456,17 +10456,17 @@
       },
       {
         "departement": "64",
-        "nom": "Centre de Vaccination de la Ville de Pau",
-        "url": "https://partners.doctolib.fr/centre-de-sante/pau/centre-de-vaccination-covid-de-pau?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-07T17:50:00.000+02:00"
-      },
-      {
-        "departement": "64",
         "nom": "Centre de Vaccination de la Ville de Lescar",
         "url": "https://partners.doctolib.fr/centre-depistage-covid/lescar/centre-de-vaccination-covid-ville-de-lescar?pid=practice-164414?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": "2021-04-19T12:40:00.000+02:00"
+      },
+      {
+        "departement": "64",
+        "nom": "Centre de Vaccination de la Ville de Pau",
+        "url": "https://partners.doctolib.fr/centre-de-sante/pau/centre-de-vaccination-covid-de-pau?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": "2021-04-07T17:50:00.000+02:00"
       }
     ],
     "centres_indisponibles": [
@@ -10600,7 +10600,7 @@
   },
   "65": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725958+02:00",
+    "last_updated": "2021-04-07T03:53:50.266443+02:00",
     "centres_disponibles": [
       {
         "departement": "65",
@@ -10664,7 +10664,7 @@
   },
   "66": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725966+02:00",
+    "last_updated": "2021-04-07T03:53:50.266452+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -10762,20 +10762,20 @@
   },
   "67": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725973+02:00",
+    "last_updated": "2021-04-07T03:53:50.266460+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
         "departement": "67",
-        "nom": "Centre de vaccination UGECAM d'Illkirch-Graffenstaden",
-        "url": "https://partners.doctolib.fr/centre-de-sante/illkirch-graffenstaden/centre-de-vaccination-covid-d-illkirch?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination S\u00e9lestat -Les Tanzmatten",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/selestat/centre-de-vaccination-covid-19-ville-de-selestat?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "67",
-        "nom": "Centre de vaccination S\u00e9lestat -Les Tanzmatten",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/selestat/centre-de-vaccination-covid-19-ville-de-selestat?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination UGECAM d'Illkirch-Graffenstaden",
+        "url": "https://partners.doctolib.fr/centre-de-sante/illkirch-graffenstaden/centre-de-vaccination-covid-d-illkirch?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -10951,7 +10951,7 @@
   },
   "68": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725981+02:00",
+    "last_updated": "2021-04-07T03:53:50.266468+02:00",
     "centres_disponibles": [
       {
         "departement": "68",
@@ -11027,15 +11027,15 @@
       },
       {
         "departement": "68",
-        "nom": "Centre de vaccination mobile - Mulhouse Alsace Agglom\u00e9ration (M2A)",
-        "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-vacci-bus-m2a?pid=practice-175755&enable_cookies_consent=1",
+        "nom": "Centre de vaccination de Wittenheim - Complexe L\u00e9o Lagrange",
+        "url": "https://partners.doctolib.fr/centre-de-sante/wittenheim/centre-de-vaccination-covid-19-ville-de-wittenheim?pid=practice-176378&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "68",
-        "nom": "Centre de vaccination de Wittenheim - Complexe L\u00e9o Lagrange",
-        "url": "https://partners.doctolib.fr/centre-de-sante/wittenheim/centre-de-vaccination-covid-19-ville-de-wittenheim?pid=practice-176378&enable_cookies_consent=1",
+        "nom": "Centre de vaccination mobile - Mulhouse Alsace Agglom\u00e9ration (M2A)",
+        "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-vacci-bus-m2a?pid=practice-175755&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -11099,7 +11099,7 @@
   },
   "69": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725988+02:00",
+    "last_updated": "2021-04-07T03:53:50.266477+02:00",
     "centres_disponibles": [
       {
         "departement": "69",
@@ -11387,7 +11387,7 @@
   },
   "70": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.725996+02:00",
+    "last_updated": "2021-04-07T03:53:50.266485+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -11464,7 +11464,7 @@
   },
   "71": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726003+02:00",
+    "last_updated": "2021-04-07T03:53:50.266494+02:00",
     "centres_disponibles": [
       {
         "departement": "71",
@@ -11661,7 +11661,7 @@
   },
   "72": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726011+02:00",
+    "last_updated": "2021-04-07T03:53:50.266502+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -11687,16 +11687,16 @@
       },
       {
         "departement": "72",
-        "nom": "Centre de vaccination SDIS - LE MANS - R\u00e9serv\u00e9 PS",
-        "url": "https://partners.doctolib.fr/etablissement-de-prevention/le-mans/pro-de-sante-le-mans-uniquement?pid=practice-171174&enable_cookies_consent=1",
-        "plateforme": null,
+        "nom": "Centre de Vaccination - SABLE SUR SARTHE - Salle Th\u00e9ophile Pl\u00e9",
+        "url": "https://www.maiia.com/centre-de-vaccination/72300-sable-sur-sarthe/centre-de-vaccination---msp-du-pays-sabolien?centerId=5fc8a456310f92465037b285",
+        "plateforme": "Maiia",
         "prochain_rdv": null
       },
       {
         "departement": "72",
-        "nom": "Centre de Vaccination - SABLE SUR SARTHE - Salle Th\u00e9ophile Pl\u00e9",
-        "url": "https://www.maiia.com/centre-de-vaccination/72300-sable-sur-sarthe/centre-de-vaccination---msp-du-pays-sabolien?centerId=5fc8a456310f92465037b285",
-        "plateforme": "Maiia",
+        "nom": "Centre de vaccination SDIS - LE MANS - R\u00e9serv\u00e9 PS",
+        "url": "https://partners.doctolib.fr/etablissement-de-prevention/le-mans/pro-de-sante-le-mans-uniquement?pid=practice-171174&enable_cookies_consent=1",
+        "plateforme": null,
         "prochain_rdv": null
       },
       {
@@ -11787,7 +11787,7 @@
   },
   "73": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726018+02:00",
+    "last_updated": "2021-04-07T03:53:50.266511+02:00",
     "centres_disponibles": [
       {
         "departement": "73",
@@ -11954,23 +11954,23 @@
       },
       {
         "departement": "73",
-        "nom": "Centre de vaccination COVID Ad Hoc de Lescheraines",
-        "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "Centre de vaccination COVID - H\u00f4pital Priv\u00e9 M\u00e9dip\u00f4le de Savoie  (Professionnels de sant\u00e9 uniquement)",
+        "url": "https://partners.doctolib.fr/clinique-privee/challes-les-eaux/centre-de-vaccination-covid-19-hopital-prive-medipole-de-savoie?pid=practice-164501&enable_cookies_consent=1",
+        "plateforme": null,
         "prochain_rdv": null
       },
       {
         "departement": "73",
-        "nom": "Centre de vaccination COVID - H\u00f4pital Priv\u00e9 M\u00e9dip\u00f4le de Savoie  (Professionnels de sant\u00e9 uniquement)",
-        "url": "https://partners.doctolib.fr/clinique-privee/challes-les-eaux/centre-de-vaccination-covid-19-hopital-prive-medipole-de-savoie?pid=practice-164501&enable_cookies_consent=1",
-        "plateforme": null,
+        "nom": "Centre de vaccination COVID Ad Hoc de Lescheraines",
+        "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       }
     ]
   },
   "74": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726026+02:00",
+    "last_updated": "2021-04-07T03:53:50.266519+02:00",
     "centres_disponibles": [
       {
         "departement": "74",
@@ -11988,13 +11988,6 @@
       },
       {
         "departement": "74",
-        "nom": "LA BALME DE SILLINGY - HALLE DES SPORTS",
-        "url": "https://partners.doctolib.fr/centre-de-sante/la-balme-de-sillingy/centre-de-vaccination-covid-19-la-balme-de-sillingy-halle-de-sport?pid=practice-181077&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-19T12:00:00.000+02:00"
-      },
-      {
-        "departement": "74",
         "nom": "CHATEL",
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/chatel-74390/centre-de-vaccination-mairie-de-chatel/centre-de-vaccination-mairie-de-chatel?cabinet=18781&specialty=496",
         "plateforme": "Keldoc",
@@ -12002,10 +11995,10 @@
       },
       {
         "departement": "74",
-        "nom": "Thonon - Boulodrome Municipal",
-        "url": "https://partners.doctolib.fr/centre-de-sante/thonon-les-bains/centre-de-vaccination-covid-thonon-les-bains?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "LA BALME DE SILLINGY - HALLE DES SPORTS",
+        "url": "https://partners.doctolib.fr/centre-de-sante/la-balme-de-sillingy/centre-de-vaccination-covid-19-la-balme-de-sillingy-halle-de-sport?pid=practice-181077&enable_cookies_consent=1",
         "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-12T14:45:00.000+02:00"
+        "prochain_rdv": "2021-04-19T12:00:00.000+02:00"
       },
       {
         "departement": "74",
@@ -12013,6 +12006,13 @@
         "url": "https://partners.doctolib.fr/centre-de-sante/sallanches/centre-de-vaccination-covid-19-ville-de-sallanches?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": "2021-04-25T16:10:00.000+02:00"
+      },
+      {
+        "departement": "74",
+        "nom": "Thonon - Boulodrome Municipal",
+        "url": "https://partners.doctolib.fr/centre-de-sante/thonon-les-bains/centre-de-vaccination-covid-thonon-les-bains?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": "2021-04-12T14:45:00.000+02:00"
       },
       {
         "departement": "74",
@@ -12167,7 +12167,7 @@
   },
   "75": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726033+02:00",
+    "last_updated": "2021-04-07T03:53:50.266528+02:00",
     "centres_disponibles": [
       {
         "departement": "75",
@@ -12175,16 +12175,16 @@
         "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-centre-henry-dunant-croix-rouge-francaise?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": "2021-05-03T16:50:00.000+02:00"
-      },
-      {
-        "departement": "75",
-        "nom": "Centre de vaccination Jaures Rothschild",
-        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-paris-19eme?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": "2021-04-10T19:12:00.000+02:00"
       }
     ],
     "centres_indisponibles": [
+      {
+        "departement": "75",
+        "nom": "GHU Paris - Site Sainte Anne",
+        "url": "https://partners.doctolib.fr/hopital-public/paris/ghu-paris?pid=practice-163190&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": null
+      },
       {
         "departement": "75",
         "nom": "H\u00f4tel Dieu",
@@ -12197,13 +12197,6 @@
         "nom": "LARIBOISIERE AP-HP",
         "url": "",
         "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "75",
-        "nom": "GHU Paris - Site Sainte Anne",
-        "url": "https://partners.doctolib.fr/hopital-public/paris/ghu-paris?pid=practice-163190&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -12432,16 +12425,16 @@
       },
       {
         "departement": "75",
-        "nom": "EMV - L\u2019\u00e9quipe mobile du CASVP",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "CES Amelot CPAM",
+        "url": "https://partners.doctolib.fr/centre-examens-de-sante/paris/centre-d-examens-de-sante-cpam-de-paris?pid=practice-54539&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "75",
-        "nom": "CES Amelot CPAM",
-        "url": "https://partners.doctolib.fr/centre-examens-de-sante/paris/centre-d-examens-de-sante-cpam-de-paris?pid=practice-54539&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "EMV - L\u2019\u00e9quipe mobile du CASVP",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -12460,15 +12453,15 @@
       },
       {
         "departement": "75",
-        "nom": "Mairie du 10e",
-        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-176642&enable_cookies_consent=1",
+        "nom": "Centre Eph\u00e9m\u00e8re - Caserne Champerret",
+        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-des-sapeurs-pompiers-de-paris?pid=practice-175266&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "75",
-        "nom": "Centre Eph\u00e9m\u00e8re - Caserne Champerret",
-        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-des-sapeurs-pompiers-de-paris?pid=practice-175266&enable_cookies_consent=1",
+        "nom": "Mairie du 10e",
+        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-176642&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -12509,13 +12502,6 @@
       },
       {
         "departement": "75",
-        "nom": "Mairie du Ve",
-        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-covid19-paris-5?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "75",
         "nom": "SOS M\u00e9decin Paris 17e",
         "url": "https://partners.doctolib.fr/centre-de-sante/paris/sos-medecins-paris?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
@@ -12523,8 +12509,8 @@
       },
       {
         "departement": "75",
-        "nom": "Mairie du 8e",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/centre-de-vaccination-covid-19-paris-8e?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Mairie du Ve",
+        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-covid19-paris-5?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -12532,6 +12518,13 @@
         "departement": "75",
         "nom": "Mairie du 15e",
         "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-paris-15e?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "75",
+        "nom": "Mairie du 8e",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/centre-de-vaccination-covid-19-paris-8e?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -12565,13 +12558,6 @@
       },
       {
         "departement": "75",
-        "nom": "Mairie du XIVe",
-        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-paris-14e?pid=practice-164733?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "75",
         "nom": "Mairie de Paris Centre",
         "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164812&enable_cookies_consent=1",
         "plateforme": "Doctolib",
@@ -12579,8 +12565,22 @@
       },
       {
         "departement": "75",
+        "nom": "Mairie du XIVe",
+        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-paris-14e?pid=practice-164733?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "75",
         "nom": "Centre m\u00e9dical de l'Institut Pasteur",
         "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-medical-institut-pasteur-cmip-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "75",
+        "nom": "Centre de vaccination Jaures Rothschild",
+        "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-paris-19eme?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -12621,15 +12621,15 @@
       },
       {
         "departement": "75",
-        "nom": "Pharmacie Oceane",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-oceane-paris",
+        "nom": "Pharmacie Montparnasse",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-montparnasse-paris",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
       {
         "departement": "75",
-        "nom": "Pharmacie Montparnasse",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-montparnasse-paris",
+        "nom": "Pharmacie Oceane",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-oceane-paris",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
@@ -12684,15 +12684,15 @@
       },
       {
         "departement": "75",
-        "nom": "Pharmacie De La Place De La R\u00e9publique",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-place-de-la-republique-paris",
+        "nom": "Pharmacie Edgar Quinet",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-edgar-quinet-paris",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
       {
         "departement": "75",
-        "nom": "Pharmacie Edgar Quinet",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-edgar-quinet-paris",
+        "nom": "Pharmacie De La Place De La R\u00e9publique",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-place-de-la-republique-paris",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       }
@@ -12700,7 +12700,7 @@
   },
   "76": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726041+02:00",
+    "last_updated": "2021-04-07T03:53:50.266536+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -12896,7 +12896,7 @@
   },
   "77": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726054+02:00",
+    "last_updated": "2021-04-07T03:53:50.266549+02:00",
     "centres_disponibles": [
       {
         "departement": "77",
@@ -12965,6 +12965,13 @@
       },
       {
         "departement": "77",
+        "nom": "Centre de vaccination du GHSIF Melun",
+        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france/centre-covid?specialty=496",
+        "plateforme": "Keldoc",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "77",
         "nom": "Centre de vaccination du SDIS",
         "url": "https://partners.doctolib.fr/centre-de-sante/melun/centre-de-vaccination-covid-19-sdis-77?pid=practice-175244&enable_cookies_consent=1",
         "plateforme": "Doctolib",
@@ -12989,13 +12996,6 @@
         "nom": "EMV Conseil D\u00e9partemental 77",
         "url": "",
         "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "77",
-        "nom": "Centre de vaccination du GHSIF Melun",
-        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france/centre-covid?specialty=496",
-        "plateforme": "Keldoc",
         "prochain_rdv": null
       },
       {
@@ -13142,7 +13142,7 @@
   },
   "78": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726068+02:00",
+    "last_updated": "2021-04-07T03:53:50.266558+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -13331,7 +13331,7 @@
   },
   "79": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726076+02:00",
+    "last_updated": "2021-04-07T03:53:50.266571+02:00",
     "centres_disponibles": [
       {
         "departement": "79",
@@ -13365,15 +13365,15 @@
       },
       {
         "departement": "79",
-        "nom": "Centre de vaccination - CPTS du Thouarsais et Val de Thouet",
-        "url": "https://partners.doctolib.fr/centre-de-sante/thouars/centre-de-vaccination-cpts-du-thouarsais-et-val-de-thouet?pid=practice-174444&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - SUD CAN",
+        "url": "https://partners.doctolib.fr/centre-de-sante/mauze-sur-le-mignon/centre-de-vaccination-covid-19-mauze-sur-le-mignon?pid=practice-176650&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "79",
-        "nom": "Centre de vaccination - SUD CAN",
-        "url": "https://partners.doctolib.fr/centre-de-sante/mauze-sur-le-mignon/centre-de-vaccination-covid-19-mauze-sur-le-mignon?pid=practice-176650&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - CPTS du Thouarsais et Val de Thouet",
+        "url": "https://partners.doctolib.fr/centre-de-sante/thouars/centre-de-vaccination-cpts-du-thouarsais-et-val-de-thouet?pid=practice-174444&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -13535,7 +13535,7 @@
   },
   "80": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726084+02:00",
+    "last_updated": "2021-04-07T03:53:50.266580+02:00",
     "centres_disponibles": [
       {
         "departement": "80",
@@ -13611,6 +13611,13 @@
       },
       {
         "departement": "80",
+        "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
+        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
+        "plateforme": "Keldoc",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "80",
         "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
         "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
         "plateforme": "Keldoc",
@@ -13625,15 +13632,15 @@
       },
       {
         "departement": "80",
-        "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
-        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
-        "plateforme": "Keldoc",
+        "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
+        "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme?speciality_id=5494&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "80",
-        "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
-        "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Centre de vaccination - CH P\u00c9RONNE",
+        "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -13642,13 +13649,6 @@
         "nom": "Centre de vaccination- CHU Amiens",
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/amiens-80000/chu-amiens-picardie-site-nord?category=-1&cabinet=16656&specialty=496",
         "plateforme": "Keldoc",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "80",
-        "nom": "Centre de vaccination - CH P\u00c9RONNE",
-        "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne?speciality_id=5494&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -13683,7 +13683,7 @@
   },
   "81": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726091+02:00",
+    "last_updated": "2021-04-07T03:53:50.266588+02:00",
     "centres_disponibles": [
       {
         "departement": "81",
@@ -13796,7 +13796,7 @@
   },
   "82": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726099+02:00",
+    "last_updated": "2021-04-07T03:53:50.266597+02:00",
     "centres_disponibles": [
       {
         "departement": "82",
@@ -13860,7 +13860,7 @@
   },
   "83": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726106+02:00",
+    "last_updated": "2021-04-07T03:53:50.266605+02:00",
     "centres_disponibles": [
       {
         "departement": "83",
@@ -14162,7 +14162,7 @@
   },
   "84": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726114+02:00",
+    "last_updated": "2021-04-07T03:53:50.266614+02:00",
     "centres_disponibles": [
       {
         "departement": "84",
@@ -14317,7 +14317,7 @@
   },
   "85": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726121+02:00",
+    "last_updated": "2021-04-07T03:53:50.266622+02:00",
     "centres_disponibles": [
       {
         "departement": "85",
@@ -14409,7 +14409,7 @@
   },
   "86": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726130+02:00",
+    "last_updated": "2021-04-07T03:53:50.266632+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -14563,7 +14563,7 @@
   },
   "87": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726137+02:00",
+    "last_updated": "2021-04-07T03:53:50.266641+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -14668,7 +14668,7 @@
   },
   "88": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726145+02:00",
+    "last_updated": "2021-04-07T03:53:50.266649+02:00",
     "centres_disponibles": [
       {
         "departement": "88",
@@ -14739,7 +14739,7 @@
   },
   "89": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726152+02:00",
+    "last_updated": "2021-04-07T03:53:50.266658+02:00",
     "centres_disponibles": [
       {
         "departement": "89",
@@ -14901,7 +14901,7 @@
   },
   "90": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726160+02:00",
+    "last_updated": "2021-04-07T03:53:50.266666+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -14943,7 +14943,7 @@
   },
   "91": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726167+02:00",
+    "last_updated": "2021-04-07T03:53:50.266675+02:00",
     "centres_disponibles": [
       {
         "departement": "91",
@@ -15138,15 +15138,15 @@
       },
       {
         "departement": "91",
-        "nom": "Salle Claude Nougaro",
-        "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Espace Ren\u00e9 L'HELGUEN",
+        "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons?pid=practice-164918?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
         "departement": "91",
-        "nom": "Espace Ren\u00e9 L'HELGUEN",
-        "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons?pid=practice-164918?speciality_id=5494&enable_cookies_consent=1",
+        "nom": "Salle Claude Nougaro",
+        "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans?speciality_id=5494&enable_cookies_consent=1",
         "plateforme": "Doctolib",
         "prochain_rdv": null
       },
@@ -15238,7 +15238,7 @@
   },
   "92": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726175+02:00",
+    "last_updated": "2021-04-07T03:53:50.266683+02:00",
     "centres_disponibles": [
       {
         "departement": "92",
@@ -15314,13 +15314,6 @@
       },
       {
         "departement": "92",
-        "nom": "CV CPAM92",
-        "url": "",
-        "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "92",
         "nom": "Ville de Gennevilliers",
         "url": "https://www.doctolib.fr/centre-de-vaccinations-internationales/gennevilliers/centre-de-vaccination-covid-19-gymnase-paul-langevin",
         "plateforme": "Doctolib",
@@ -15328,16 +15321,23 @@
       },
       {
         "departement": "92",
-        "nom": "Ville de Chaville - Ville d'Avray - S\u00e8vres",
+        "nom": "Ville de Levallois-Perret",
+        "url": "https://partners.doctolib.fr/centre-de-sante/levallois-perret/centre-de-vaccination-de-levallois?pid=practice-175351&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "92",
+        "nom": "CV CPAM92",
         "url": "",
         "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
         "departement": "92",
-        "nom": "Ville de Levallois-Perret",
-        "url": "https://partners.doctolib.fr/centre-de-sante/levallois-perret/centre-de-vaccination-de-levallois?pid=practice-175351&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "Ville de Chaville - Ville d'Avray - S\u00e8vres",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
@@ -15601,15 +15601,15 @@
       },
       {
         "departement": "92",
-        "nom": "Pharmacie Louise Michel",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-louise-michel-levallois",
+        "nom": "Pharmacie Trincal",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-trincal-vanves",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
       {
         "departement": "92",
-        "nom": "Pharmacie Trincal",
-        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-trincal-vanves",
+        "nom": "Pharmacie Louise Michel",
+        "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-louise-michel-levallois",
         "plateforme": "Ordoclic",
         "prochain_rdv": null
       },
@@ -15631,7 +15631,7 @@
   },
   "93": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726182+02:00",
+    "last_updated": "2021-04-07T03:53:50.266692+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {
@@ -15790,16 +15790,16 @@
       },
       {
         "departement": "93",
-        "nom": "Centre de vaccination - Gymnase Guimier",
-        "url": "https://partners.doctolib.fr/centre-de-sante/tremblay-en-france/gymnase-jean-guimier-centre-de-vaccination-covid-19?pid=practice-175982&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
+        "nom": "EMV Romainville",
+        "url": "",
+        "plateforme": "Autre",
         "prochain_rdv": null
       },
       {
         "departement": "93",
-        "nom": "EMV Romainville",
-        "url": "",
-        "plateforme": "Autre",
+        "nom": "Centre de vaccination - Gymnase Guimier",
+        "url": "https://partners.doctolib.fr/centre-de-sante/tremblay-en-france/gymnase-jean-guimier-centre-de-vaccination-covid-19?pid=practice-175982&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -15939,7 +15939,7 @@
   },
   "94": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726190+02:00",
+    "last_updated": "2021-04-07T03:53:50.266700+02:00",
     "centres_disponibles": [
       {
         "departement": "94",
@@ -15947,6 +15947,13 @@
         "url": "https://www.maiia.com/centre-de-vaccination/94190-villeneuve-saint-georges/centre-de-vaccination---chi-de-villeneuve-saint-georges",
         "plateforme": "Maiia",
         "prochain_rdv": "2021-04-20T12:00:00.000000Z"
+      },
+      {
+        "departement": "94",
+        "nom": "Centre de Vaccination d'Ivry sur Seine",
+        "url": "https://partners.doctolib.fr/centre-de-sante/ivry-sur-seine/centre-de-vaccination-covid-19-ivry-sur-seine?pid=practice-176560&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": "2021-04-08T12:30:00.000+02:00"
       },
       {
         "departement": "94",
@@ -16046,13 +16053,6 @@
         "nom": "CP - US  de Fresnes / Centre P\u00e9nitentiaire de Fresnes",
         "url": "",
         "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "94",
-        "nom": "Centre de Vaccination d'Ivry sur Seine",
-        "url": "https://partners.doctolib.fr/centre-de-sante/ivry-sur-seine/centre-de-vaccination-covid-19-ivry-sur-seine?pid=practice-176560&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -16164,7 +16164,7 @@
   },
   "95": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726197+02:00",
+    "last_updated": "2021-04-07T03:53:50.266708+02:00",
     "centres_disponibles": [
       {
         "departement": "95",
@@ -16179,6 +16179,13 @@
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-brice-sous-foret-95350/vaccination-plaine-vallee-saint-brice-sous-foret?category=-1&cabinet=16609&specialty=496",
         "plateforme": "Keldoc",
         "prochain_rdv": "2021-04-09T14:00:00.000000+0200"
+      },
+      {
+        "departement": "95",
+        "nom": "Centre intercommunal de vaccination - Viarmes",
+        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/viarmes/centre-de-vaccination-covid-19-centre-intercommunal-de-viarmes?pid=practice-178712&enable_cookies_consent=1",
+        "plateforme": "Doctolib",
+        "prochain_rdv": "2021-04-09T13:30:00.000+02:00"
       },
       {
         "departement": "95",
@@ -16296,6 +16303,13 @@
       },
       {
         "departement": "95",
+        "nom": "Centre de vaccination territorial Centre Val d'Oise",
+        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
+        "plateforme": "Keldoc",
+        "prochain_rdv": null
+      },
+      {
+        "departement": "95",
         "nom": "EMV CV territorial du Haut Val d'Oise",
         "url": "",
         "plateforme": "Autre",
@@ -16313,13 +16327,6 @@
         "nom": "EMV CV Victor Dupouy",
         "url": "",
         "plateforme": "Autre",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "95",
-        "nom": "Centre de vaccination territorial Centre Val d'Oise",
-        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
-        "plateforme": "Keldoc",
         "prochain_rdv": null
       },
       {
@@ -16369,13 +16376,6 @@
         "nom": "Centre de vaccination territorial Centre Val d'Oise",
         "url": "https://vaccination-covid.keldoc.com/cabinet-medical/enghien-les-bains-95880/vaccination-plaine-vallee-enghien-les-bains?category=-1&cabinet=16606&specialty=496",
         "plateforme": "Keldoc",
-        "prochain_rdv": null
-      },
-      {
-        "departement": "95",
-        "nom": "Centre intercommunal de vaccination - Viarmes",
-        "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/viarmes/centre-de-vaccination-covid-19-centre-intercommunal-de-viarmes?pid=practice-178712&enable_cookies_consent=1",
-        "plateforme": "Doctolib",
         "prochain_rdv": null
       },
       {
@@ -16480,7 +16480,7 @@
   },
   "971": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726205+02:00",
+    "last_updated": "2021-04-07T03:53:50.266717+02:00",
     "centres_disponibles": [
       {
         "departement": "971",
@@ -16586,7 +16586,7 @@
   },
   "972": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726212+02:00",
+    "last_updated": "2021-04-07T03:53:50.266725+02:00",
     "centres_disponibles": [
       {
         "departement": "972",
@@ -16650,7 +16650,7 @@
   },
   "973": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726220+02:00",
+    "last_updated": "2021-04-07T03:53:50.266734+02:00",
     "centres_disponibles": [
       {
         "departement": "973",
@@ -16686,7 +16686,7 @@
   },
   "974": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726234+02:00",
+    "last_updated": "2021-04-07T03:53:50.266743+02:00",
     "centres_disponibles": [
       {
         "departement": "974",
@@ -16711,17 +16711,10 @@
       },
       {
         "departement": "974",
-        "nom": "Centre de vaccination COVID-19 de Saint-Paul - Salle polyvalente de l'etang",
-        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-paul-97460/saint-paul/centre-de-vaccination-de-saint-paul",
+        "nom": "Centre de vaccination COVID 19 du CHOR",
+        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/saint-paul-97460/centre-hospitalier-ouest-reunion/centre-de-vaccination-du-centre-hospitalier-ouest-reunion",
         "plateforme": "Keldoc",
-        "prochain_rdv": "2021-04-19T17:05:00.000000+0200"
-      },
-      {
-        "departement": "974",
-        "nom": "centre de vaccination a\u00e9roport de Pierrefonds",
-        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/le-tampon-97418/centre-de-vaccination-covid-19-aeroport-de-pierrefonds",
-        "plateforme": "Keldoc",
-        "prochain_rdv": "2021-04-10T16:43:00.000000+0200"
+        "prochain_rdv": "2021-04-17T17:57:00.000000+0200"
       },
       {
         "departement": "974",
@@ -16732,10 +16725,17 @@
       },
       {
         "departement": "974",
-        "nom": "Centre de vaccination COVID 19 du CHOR",
-        "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/saint-paul-97460/centre-hospitalier-ouest-reunion/centre-de-vaccination-du-centre-hospitalier-ouest-reunion",
+        "nom": "centre de vaccination a\u00e9roport de Pierrefonds",
+        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/le-tampon-97418/centre-de-vaccination-covid-19-aeroport-de-pierrefonds",
         "plateforme": "Keldoc",
-        "prochain_rdv": "2021-04-17T17:57:00.000000+0200"
+        "prochain_rdv": "2021-04-10T16:43:00.000000+0200"
+      },
+      {
+        "departement": "974",
+        "nom": "Centre de vaccination COVID-19 de Saint-Paul - Salle polyvalente de l'etang",
+        "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-paul-97460/saint-paul/centre-de-vaccination-de-saint-paul",
+        "plateforme": "Keldoc",
+        "prochain_rdv": "2021-04-19T17:05:00.000000+0200"
       },
       {
         "departement": "974",
@@ -16827,7 +16827,7 @@
   },
   "976": {
     "version": 1,
-    "last_updated": "2021-04-07T03:50:20.726247+02:00",
+    "last_updated": "2021-04-07T03:53:50.266759+02:00",
     "centres_disponibles": [],
     "centres_indisponibles": [
       {

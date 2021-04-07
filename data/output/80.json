@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.726084+02:00",
+  "last_updated": "2021-04-07T03:53:50.266580+02:00",
   "centres_disponibles": [
     {
       "departement": "80",
@@ -76,6 +76,13 @@
     },
     {
       "departement": "80",
+      "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "80",
       "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
       "plateforme": "Keldoc",
@@ -90,15 +97,15 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
-      "plateforme": "Keldoc",
+      "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
-      "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - CH P\u00c9RONNE",
+      "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -107,13 +114,6 @@
       "nom": "Centre de vaccination- CHU Amiens",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/amiens-80000/chu-amiens-picardie-site-nord?category=-1&cabinet=16656&specialty=496",
       "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "80",
-      "nom": "Centre de vaccination - CH P\u00c9RONNE",
-      "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

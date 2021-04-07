@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725526+02:00",
+  "last_updated": "2021-04-07T03:53:50.264824+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -132,15 +132,15 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Ferran",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
+      "nom": "Pharmacie Mozart",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-mozart-lisieux",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Mozart",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-mozart-lisieux",
+      "nom": "Pharmacie Ferran",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },

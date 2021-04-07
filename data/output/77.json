@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.726054+02:00",
+  "last_updated": "2021-04-07T03:53:50.266549+02:00",
   "centres_disponibles": [
     {
       "departement": "77",
@@ -69,6 +69,13 @@
     },
     {
       "departement": "77",
+      "nom": "Centre de vaccination du GHSIF Melun",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france/centre-covid?specialty=496",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "77",
       "nom": "Centre de vaccination du SDIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/melun/centre-de-vaccination-covid-19-sdis-77?pid=practice-175244&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -93,13 +100,6 @@
       "nom": "EMV Conseil D\u00e9partemental 77",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "77",
-      "nom": "Centre de vaccination du GHSIF Melun",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france/centre-covid?specialty=496",
-      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {

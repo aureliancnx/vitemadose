@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725735+02:00",
+  "last_updated": "2021-04-07T03:53:50.265093+02:00",
   "centres_disponibles": [
     {
       "departement": "38",
@@ -64,13 +64,6 @@
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/le-versoud-38420/salle-polyvalente-le-versoud/centre-de-vaccination-de-la-salle-polyvalente-le-versoud",
       "plateforme": "Keldoc",
       "prochain_rdv": "2021-04-22T08:30:00.000000+0200"
-    },
-    {
-      "departement": "38",
-      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
-      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
-      "plateforme": "Keldoc",
-      "prochain_rdv": "2021-04-26T11:20:00.000000+0200"
     }
   ],
   "centres_indisponibles": [
@@ -128,6 +121,13 @@
       "nom": "Grand centre de vaccination - Alpexpo",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "38",
+      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
+      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
+      "plateforme": null,
       "prochain_rdv": null
     },
     {

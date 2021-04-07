@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725915+02:00",
+  "last_updated": "2021-04-07T03:53:50.266396+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
@@ -111,15 +111,15 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
-      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Mairie de Chambly, gymnase en c\u0153ur de ville",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chambly/centre-de-vaccination-covid-19-ville-de-chambly?pid=practice-175375&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - Mairie de Chambly, gymnase en c\u0153ur de ville",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chambly/centre-de-vaccination-covid-19-ville-de-chambly?pid=practice-175375&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

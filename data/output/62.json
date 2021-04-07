@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725930+02:00",
+  "last_updated": "2021-04-07T03:53:50.266413+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -97,6 +97,13 @@
     },
     {
       "departement": "62",
+      "nom": "CP - US  / Centre P\u00e9nitentiaire de Vendin-le-Vieil",
+      "url": "",
+      "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "62",
       "nom": "CD - US BAPAUME / Maison d'Arr\u00eat d'Arras",
       "url": "",
       "plateforme": "Autre",
@@ -105,13 +112,6 @@
     {
       "departement": "62",
       "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
-      "url": "",
-      "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "62",
-      "nom": "CP - US  / Centre P\u00e9nitentiaire de Vendin-le-Vieil",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null
@@ -188,16 +188,16 @@
     },
     {
       "departement": "62",
-      "nom": "Centre de vaccination - Ville de Vitry-en-Artois, salle polyvalente",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination - Commune AUCHEL, SALLE ROGER COUDERC",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/auchel/centre-de-vaccination-covid-19-roger-couderc?pid=practice-176918&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "62",
-      "nom": "Centre de vaccination - Commune AUCHEL, SALLE ROGER COUDERC",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/auchel/centre-de-vaccination-covid-19-roger-couderc?pid=practice-176918&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination - Ville de Vitry-en-Artois, salle polyvalente",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -335,15 +335,15 @@
     },
     {
       "departement": "62",
-      "nom": "Pharmacie Test",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-test-rebreuve-sur-canche",
+      "nom": "Pharmacie Henin Beaumont",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-henin-beaumont-henin-beaumont",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },
     {
       "departement": "62",
-      "nom": "Pharmacie Henin Beaumont",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-henin-beaumont-henin-beaumont",
+      "nom": "Pharmacie Test",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-test-rebreuve-sur-canche",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },

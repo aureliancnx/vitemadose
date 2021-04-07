@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.726175+02:00",
+  "last_updated": "2021-04-07T03:53:50.266683+02:00",
   "centres_disponibles": [
     {
       "departement": "92",
@@ -76,13 +76,6 @@
     },
     {
       "departement": "92",
-      "nom": "CV CPAM92",
-      "url": "",
-      "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "92",
       "nom": "Ville de Gennevilliers",
       "url": "https://www.doctolib.fr/centre-de-vaccinations-internationales/gennevilliers/centre-de-vaccination-covid-19-gymnase-paul-langevin",
       "plateforme": "Doctolib",
@@ -90,16 +83,23 @@
     },
     {
       "departement": "92",
-      "nom": "Ville de Chaville - Ville d'Avray - S\u00e8vres",
+      "nom": "Ville de Levallois-Perret",
+      "url": "https://partners.doctolib.fr/centre-de-sante/levallois-perret/centre-de-vaccination-de-levallois?pid=practice-175351&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "92",
+      "nom": "CV CPAM92",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "92",
-      "nom": "Ville de Levallois-Perret",
-      "url": "https://partners.doctolib.fr/centre-de-sante/levallois-perret/centre-de-vaccination-de-levallois?pid=practice-175351&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Ville de Chaville - Ville d'Avray - S\u00e8vres",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -363,15 +363,15 @@
     },
     {
       "departement": "92",
-      "nom": "Pharmacie Louise Michel",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-louise-michel-levallois",
+      "nom": "Pharmacie Trincal",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-trincal-vanves",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },
     {
       "departement": "92",
-      "nom": "Pharmacie Trincal",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-trincal-vanves",
+      "nom": "Pharmacie Louise Michel",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-louise-michel-levallois",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },

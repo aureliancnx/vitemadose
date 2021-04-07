@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.726018+02:00",
+  "last_updated": "2021-04-07T03:53:50.266511+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -167,16 +167,16 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Ad Hoc de Lescheraines",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination COVID - H\u00f4pital Priv\u00e9 M\u00e9dip\u00f4le de Savoie  (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://partners.doctolib.fr/clinique-privee/challes-les-eaux/centre-de-vaccination-covid-19-hopital-prive-medipole-de-savoie?pid=practice-164501&enable_cookies_consent=1",
+      "plateforme": null,
       "prochain_rdv": null
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID - H\u00f4pital Priv\u00e9 M\u00e9dip\u00f4le de Savoie  (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://partners.doctolib.fr/clinique-privee/challes-les-eaux/centre-de-vaccination-covid-19-hopital-prive-medipole-de-savoie?pid=practice-164501&enable_cookies_consent=1",
-      "plateforme": null,
+      "nom": "Centre de vaccination COVID Ad Hoc de Lescheraines",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     }
   ]

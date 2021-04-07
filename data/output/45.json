@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725789+02:00",
+  "last_updated": "2021-04-07T03:53:50.266256+02:00",
   "centres_disponibles": [
     {
       "departement": "45",
-      "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
-      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
+      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-07T08:30:00.000+02:00"
     },
     {
       "departement": "45",
-      "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
-      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901&enable_cookies_consent=1",
+      "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
+      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-07T08:30:00.000+02:00"
     },

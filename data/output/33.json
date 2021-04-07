@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725692+02:00",
+  "last_updated": "2021-04-07T03:53:50.265010+02:00",
   "centres_disponibles": [
     {
       "departement": "33",
@@ -14,7 +14,7 @@
       "nom": "Mairie d'Arcachon",
       "url": "https://partners.doctolib.fr/centre-de-sante/arcachon/centre-municipal-de-vaccination-anti-covid-19-de-la-ville-d-arcachon?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T19:10:00.000+02:00"
+      "prochain_rdv": "2021-04-09T17:15:00.000+02:00"
     },
     {
       "departement": "33",

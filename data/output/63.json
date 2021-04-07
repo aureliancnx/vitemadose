@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725943+02:00",
+  "last_updated": "2021-04-07T03:53:50.266426+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -12,15 +12,15 @@
     },
     {
       "departement": "63",
-      "nom": "Centre de vaccination  COVID RIOM Ville-H\u00f4pital Salle DUMOULIN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/riom/centre-de-vaccination-covid-ch-riom?pid=practice-166271&enable_cookies_consent=1",
+      "nom": "Centre de vaccination du Centre Hospitalier du Mont Dore",
+      "url": "https://partners.doctolib.fr/hopital-public/mont-dore/ch-du-mont-dore-centre-de-vaccination?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "63",
-      "nom": "Centre de vaccination du Centre Hospitalier du Mont Dore",
-      "url": "https://partners.doctolib.fr/hopital-public/mont-dore/ch-du-mont-dore-centre-de-vaccination?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination  COVID RIOM Ville-H\u00f4pital Salle DUMOULIN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/riom/centre-de-vaccination-covid-ch-riom?pid=practice-166271&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

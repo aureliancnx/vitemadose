@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725662+02:00",
+  "last_updated": "2021-04-07T03:53:50.264977+02:00",
   "centres_disponibles": [
     {
       "departement": "30",
@@ -153,13 +153,6 @@
     },
     {
       "departement": "30",
-      "nom": "Pharmacie Des Aires",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-aires-sommieres",
-      "plateforme": "Ordoclic",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "30",
       "nom": "Grande Pharmacie Du Talabot",
       "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-du-talabot-nimes",
       "plateforme": "Ordoclic",
@@ -169,6 +162,13 @@
       "departement": "30",
       "nom": "Pharmacie Des Portes De La Vaunage",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-portes-de-la-vaunage-caveirac",
+      "plateforme": "Ordoclic",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "30",
+      "nom": "Pharmacie Des Aires",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-aires-sommieres",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     }

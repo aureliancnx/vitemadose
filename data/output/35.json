@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725707+02:00",
+  "last_updated": "2021-04-07T03:53:50.265027+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -20,15 +20,15 @@
   "centres_indisponibles": [
     {
       "departement": "35",
-      "nom": "MONTFORT SUR MEU-COSEC",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montfort-sur-meu/centre-de-vaccination-covid-19-de-broceliande?pid=practice-166461&enable_cookies_consent=1",
+      "nom": "DOL DE BGNE-Club de l'amiti\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dol-de-bretagne/centre-de-vaccination-dol-de-bretagne?pid=practice-165293&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "35",
-      "nom": "DOL DE BGNE-Club de l'amiti\u00e9",
-      "url": "https://partners.doctolib.fr/centre-de-sante/dol-de-bretagne/centre-de-vaccination-dol-de-bretagne?pid=practice-165293&enable_cookies_consent=1",
+      "nom": "MONTFORT SUR MEU-COSEC",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montfort-sur-meu/centre-de-vaccination-covid-19-de-broceliande?pid=practice-166461&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

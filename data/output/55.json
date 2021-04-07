@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725877+02:00",
+  "last_updated": "2021-04-07T03:53:50.266354+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
@@ -69,15 +69,15 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
-      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+      "nom": "Lieu de vaccination de MONTMEDY (salle des f\u00eates)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de MONTMEDY (salle des f\u00eates)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville",
+      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
+      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },
@@ -90,15 +90,15 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de DAMVILLERS - MSP",
-      "url": "https://www.maiia.com/centre-de-vaccination/55150-damvillers/centre-de-vaccination---damvillers",
+      "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
+      "nom": "Lieu de vaccination de DAMVILLERS - MSP",
+      "url": "https://www.maiia.com/centre-de-vaccination/55150-damvillers/centre-de-vaccination---damvillers",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },

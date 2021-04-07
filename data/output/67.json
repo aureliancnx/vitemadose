@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725973+02:00",
+  "last_updated": "2021-04-07T03:53:50.266460+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "67",
-      "nom": "Centre de vaccination UGECAM d'Illkirch-Graffenstaden",
-      "url": "https://partners.doctolib.fr/centre-de-sante/illkirch-graffenstaden/centre-de-vaccination-covid-d-illkirch?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination S\u00e9lestat -Les Tanzmatten",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/selestat/centre-de-vaccination-covid-19-ville-de-selestat?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "67",
-      "nom": "Centre de vaccination S\u00e9lestat -Les Tanzmatten",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/selestat/centre-de-vaccination-covid-19-ville-de-selestat?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination UGECAM d'Illkirch-Graffenstaden",
+      "url": "https://partners.doctolib.fr/centre-de-sante/illkirch-graffenstaden/centre-de-vaccination-covid-d-illkirch?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

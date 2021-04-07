@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725601+02:00",
+  "last_updated": "2021-04-07T03:53:50.264909+02:00",
   "centres_disponibles": [
     {
       "departement": "24",
@@ -104,16 +104,16 @@
     },
     {
       "departement": "24",
-      "nom": "CV mobile -Perigueux- SDIS/CD",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Maison de sant\u00e9 du Pays Montponnais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "24",
-      "nom": "Maison de sant\u00e9 du Pays Montponnais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "CV mobile -Perigueux- SDIS/CD",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {

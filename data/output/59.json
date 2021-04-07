@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.725907+02:00",
+  "last_updated": "2021-04-07T03:53:50.266388+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -8,6 +8,13 @@
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-flandre-littorale-grande-synthe",
       "plateforme": "Ordoclic",
       "prochain_rdv": "2021-04-08T14:50:00+00:00"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CHSA Maubeuge",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/maubeuge-59600/centre-hospitalier-de-sambre-avesnois/centre-de-vaccination-du-centre-hospitalier-de-sambre-avesnois",
+      "plateforme": "Keldoc",
+      "prochain_rdv": "2021-05-04T15:30:00.000000+0200"
     },
     {
       "departement": "59",
@@ -209,13 +216,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CHSA Maubeuge",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/maubeuge-59600/centre-hospitalier-de-sambre-avesnois/centre-de-vaccination-du-centre-hospitalier-de-sambre-avesnois",
-      "plateforme": null,
-      "prochain_rdv": null
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - Commune de Cond\u00e9-sur-l'Escaut, MSP",
       "url": "https://partners.doctolib.fr/centre-de-sante/valenciennes/centre-vaccination?pid=practice-176729&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -286,15 +286,15 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -356,15 +356,15 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
-      "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - CH Armenti\u00e8res",
+      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Armenti\u00e8res",
-      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
+      "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -475,15 +475,15 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie De La Madeleine",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
+      "nom": "Grande Pharmacie Jaures",
+      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-jaures-coudekerque-branche",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Grande Pharmacie Jaures",
-      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-jaures-coudekerque-branche",
+      "nom": "Pharmacie De La Madeleine",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
       "plateforme": "Ordoclic",
       "prochain_rdv": null
     },

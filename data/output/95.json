@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-07T03:50:20.726197+02:00",
+  "last_updated": "2021-04-07T03:53:50.266708+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
@@ -15,6 +15,13 @@
       "url": "https://partners.doctolib.fr/hopital-public/pontoise/ght-novo-ghcpo-chrd-vaccination-covid-19?pid=practice-162508&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-08T14:40:00.000+02:00"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre intercommunal de vaccination - Viarmes",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/viarmes/centre-de-vaccination-covid-19-centre-intercommunal-de-viarmes?pid=practice-178712&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-09T13:30:00.000+02:00"
     },
     {
       "departement": "95",
@@ -132,6 +139,13 @@
     },
     {
       "departement": "95",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "95",
       "nom": "EMV CV territorial du Haut Val d'Oise",
       "url": "",
       "plateforme": "Autre",
@@ -149,13 +163,6 @@
       "nom": "EMV CV Victor Dupouy",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "95",
-      "nom": "Centre de vaccination territorial Centre Val d'Oise",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
-      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -205,13 +212,6 @@
       "nom": "Centre de vaccination territorial Centre Val d'Oise",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/enghien-les-bains-95880/vaccination-plaine-vallee-enghien-les-bains?category=-1&cabinet=16606&specialty=496",
       "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "95",
-      "nom": "Centre intercommunal de vaccination - Viarmes",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/viarmes/centre-de-vaccination-covid-19-centre-intercommunal-de-viarmes?pid=practice-178712&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
